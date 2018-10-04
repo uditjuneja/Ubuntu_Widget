@@ -43,7 +43,7 @@ def build_menu():
     return menu
 
 def open_site():
-    webbrowser.open_new("http://www.google.com")
+    webbrowser.open_new("http://www.ccstu.org/")
 
 def fetch_update():
     return ("Nothing new")
